@@ -6,6 +6,8 @@ In this project, we utilize the ETL (Extraction, Transformation, and Loading) pr
 
 ## Extract: Retrieve data from the Excel files.
 
+![](https://github.com/ocarolinne/Crowdfunding_ETL/blob/main/Screenshots/extract%20data.png)
+
 ## Transform: Refine the data to enhance its quality and usability by:
 * **Removing unnecessary data;**
 * **Creating new columns;**
@@ -15,6 +17,7 @@ In this project, we utilize the ETL (Extraction, Transformation, and Loading) pr
 * **Merging data; etc..**
 
 ### The data transformation is performed using Python, JSON, and regex.
+![](https://github.com/ocarolinne/Crowdfunding_ETL/blob/main/Screenshots/transform%20data.png)
 
 ## Load 
 * **Save the transformed data into dataframes and generate new files.** 
